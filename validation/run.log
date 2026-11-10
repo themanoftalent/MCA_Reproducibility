@@ -1,0 +1,21 @@
+Empirical fits complete
+Simulation equal_counts_equal_sd complete
+Simulation unequal_counts complete
+Simulation unequal_sd complete
+Simulation counts_and_sd complete
+Simulation contaminated_cell complete
+Simulation categorical_misspecification complete
+Checks passed: weight scale invariance, leverage trace, direct LOCO versus PRESS identity.
+Extension: Ordinal mean
+Extension: Monotone category mean
+Extension: Middle class dip
+Extension: Middle class rise
+Extension: g01 plus 3 SD
+Extension: g01 plus 6 SD
+Extension: g09 plus 3 SD
+Extension: g09 plus 6 SD
+Extension: g17 plus 3 SD
+Extension: g17 plus 6 SD
+Extension: Ordinal mean t5 errors
+Verification: 83 checks passed; 0 manuscript rounding differences.
+Pipeline completed. See validation/verification.json and results/manuscript_comparison.csv.

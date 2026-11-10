@@ -1,0 +1,341 @@
+{
+  "checks": [
+    {
+      "check": "18 unique grouped inputs",
+      "passed": true
+    },
+    {
+      "check": "count discrepancy documented",
+      "passed": true
+    },
+    {
+      "check": "CO A normal equations",
+      "passed": true
+    },
+    {
+      "check": "CO A scale invariance",
+      "passed": true
+    },
+    {
+      "check": "CO A leverage trace",
+      "passed": true
+    },
+    {
+      "check": "CO A symmetric covariance",
+      "passed": true
+    },
+    {
+      "check": "CO A PRESS",
+      "passed": true
+    },
+    {
+      "check": "CO AM normal equations",
+      "passed": true
+    },
+    {
+      "check": "CO AM scale invariance",
+      "passed": true
+    },
+    {
+      "check": "CO AM leverage trace",
+      "passed": true
+    },
+    {
+      "check": "CO AM symmetric covariance",
+      "passed": true
+    },
+    {
+      "check": "CO AM PRESS",
+      "passed": true
+    },
+    {
+      "check": "CO CAT normal equations",
+      "passed": true
+    },
+    {
+      "check": "CO CAT scale invariance",
+      "passed": true
+    },
+    {
+      "check": "CO CAT leverage trace",
+      "passed": true
+    },
+    {
+      "check": "CO CAT symmetric covariance",
+      "passed": true
+    },
+    {
+      "check": "CO CAT PRESS",
+      "passed": true
+    },
+    {
+      "check": "CO independent Huber objective",
+      "passed": true
+    },
+    {
+      "check": "CO Huber gradient",
+      "passed": true
+    },
+    {
+      "check": "CO sensitivity baseline",
+      "passed": true
+    },
+    {
+      "check": "CO sensitivity feasibility",
+      "passed": true
+    },
+    {
+      "check": "NMHC A normal equations",
+      "passed": true
+    },
+    {
+      "check": "NMHC A scale invariance",
+      "passed": true
+    },
+    {
+      "check": "NMHC A leverage trace",
+      "passed": true
+    },
+    {
+      "check": "NMHC A symmetric covariance",
+      "passed": true
+    },
+    {
+      "check": "NMHC A PRESS",
+      "passed": true
+    },
+    {
+      "check": "NMHC AM normal equations",
+      "passed": true
+    },
+    {
+      "check": "NMHC AM scale invariance",
+      "passed": true
+    },
+    {
+      "check": "NMHC AM leverage trace",
+      "passed": true
+    },
+    {
+      "check": "NMHC AM symmetric covariance",
+      "passed": true
+    },
+    {
+      "check": "NMHC AM PRESS",
+      "passed": true
+    },
+    {
+      "check": "NMHC CAT normal equations",
+      "passed": true
+    },
+    {
+      "check": "NMHC CAT scale invariance",
+      "passed": true
+    },
+    {
+      "check": "NMHC CAT leverage trace",
+      "passed": true
+    },
+    {
+      "check": "NMHC CAT symmetric covariance",
+      "passed": true
+    },
+    {
+      "check": "NMHC CAT PRESS",
+      "passed": true
+    },
+    {
+      "check": "NMHC independent Huber objective",
+      "passed": true
+    },
+    {
+      "check": "NMHC Huber gradient",
+      "passed": true
+    },
+    {
+      "check": "NMHC sensitivity baseline",
+      "passed": true
+    },
+    {
+      "check": "NMHC sensitivity feasibility",
+      "passed": true
+    },
+    {
+      "check": "NOx A normal equations",
+      "passed": true
+    },
+    {
+      "check": "NOx A scale invariance",
+      "passed": true
+    },
+    {
+      "check": "NOx A leverage trace",
+      "passed": true
+    },
+    {
+      "check": "NOx A symmetric covariance",
+      "passed": true
+    },
+    {
+      "check": "NOx A PRESS",
+      "passed": true
+    },
+    {
+      "check": "NOx AM normal equations",
+      "passed": true
+    },
+    {
+      "check": "NOx AM scale invariance",
+      "passed": true
+    },
+    {
+      "check": "NOx AM leverage trace",
+      "passed": true
+    },
+    {
+      "check": "NOx AM symmetric covariance",
+      "passed": true
+    },
+    {
+      "check": "NOx AM PRESS",
+      "passed": true
+    },
+    {
+      "check": "NOx CAT normal equations",
+      "passed": true
+    },
+    {
+      "check": "NOx CAT scale invariance",
+      "passed": true
+    },
+    {
+      "check": "NOx CAT leverage trace",
+      "passed": true
+    },
+    {
+      "check": "NOx CAT symmetric covariance",
+      "passed": true
+    },
+    {
+      "check": "NOx CAT PRESS",
+      "passed": true
+    },
+    {
+      "check": "NOx independent Huber objective",
+      "passed": true
+    },
+    {
+      "check": "NOx Huber gradient",
+      "passed": true
+    },
+    {
+      "check": "NOx sensitivity baseline",
+      "passed": true
+    },
+    {
+      "check": "NOx sensitivity feasibility",
+      "passed": true
+    },
+    {
+      "check": "648 successful linear deletion fits",
+      "passed": true
+    },
+    {
+      "check": "54 successful Huber deletion fits",
+      "passed": true
+    },
+    {
+      "check": "30000 original simulation fits at full run",
+      "passed": true
+    },
+    {
+      "check": "44000 extension fits at full run",
+      "passed": true
+    },
+    {
+      "check": "finite extension errors and standard errors",
+      "passed": true
+    },
+    {
+      "check": "resampled frequencies differ in 17 cells",
+      "passed": true
+    },
+    {
+      "check": "Input g01 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g02 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g03 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g04 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g05 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g06 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g07 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g08 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g09 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g10 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g11 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g12 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g13 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g14 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g15 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g16 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g17 cell identifier",
+      "passed": true
+    },
+    {
+      "check": "Input g18 cell identifier",
+      "passed": true
+    }
+  ],
+  "passed": 83,
+  "failed": 0,
+  "manuscript_values_compared": 622,
+  "manuscript_values_matching": 622,
+  "manuscript_values_differing": 0
+}
